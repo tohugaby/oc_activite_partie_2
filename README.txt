@@ -1,0 +1,3 @@
+Activité de la partie 2 du cours openclassrooms sur Git et Github.
+
+Le but n'est pas nécessairement de proposer du code fonctionnel mais plutôt de manipuler git et github en utilisant les commandes courantes: init, add, commit, push, pull...
