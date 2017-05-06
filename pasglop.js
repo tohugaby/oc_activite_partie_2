@@ -1,2 +1,2 @@
-not_happy = "pas glop !")
+not_happy = "pas glop !"
 alert(not_happpy)
