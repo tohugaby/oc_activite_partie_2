@@ -1,1 +1,3 @@
-alert("glopi !")
+var happy="glop !"
+
+alert(happy)
